@@ -1,0 +1,21 @@
+INDEX VERSION 1.131+/Users/baohang/Desktop/Self Exercise/Java/HackerRank/.metadata/.plugins/org.eclipse.jdt.core
+377386123.index
+2090013699.index
+4027598327.index
+1865797976.index
+1003446453.index
+2304518466.index
+1042517679.index
+4231604185.index
+3313786057.index
+48182931.index
+3360811632.index
+1204847512.index
+1470593717.index
+220384120.index
+774407255.index
+309364252.index
+66982766.index
+79831015.index
+2340018086.index
+2079317684.index
